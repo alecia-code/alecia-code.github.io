@@ -1,0 +1,18 @@
+name: Jenna Hayes Portfolio
+description: Portfolio of Data and Product Analytics Projects
+
+theme: minima
+
+baseurl: "" 
+url: "https://alecia-code.github.io"
+
+markdown: kramdown
+permalink: pretty
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Resume"
+    url: "/resume.pdf"
