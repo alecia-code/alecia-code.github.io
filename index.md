@@ -3,11 +3,11 @@ layout: default
 title: Welcome
 ---
 
-# 👋 Hi, I'm Jenna Hayes
+# Hi, I'm Jenna Hayes
 
 Welcome to my portfolio! I specialize in combining data storytelling, user behavior analysis, and performance insights to drive product and marketing impact.
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
 
@@ -16,7 +16,7 @@ Welcome to my portfolio! I specialize in combining data storytelling, user behav
 <a href="assets/cta-ab-test.html"><img src="assets/cta-thumb.png" alt="CTA Test" style="width:100%;"/></a>
 **CTA Placement A/B Test**  
 Optimizing CTA position to improve CTR across devices.  
-🔗 [View Dashboard](assets/cta-ab-test.html)
+ [View Dashboard](assets/cta-ab-test.html)
 </div>
 
 <!-- Funnel Drop-Off -->
@@ -24,7 +24,7 @@ Optimizing CTA position to improve CTR across devices.
 <a href="assets/funnel-dropoff.html"><img src="assets/funnel-thumb.png" alt="Funnel Drop-Off" style="width:100%;"/></a>
 **Funnel Drop-Off Analysis**  
 Visualizing and reducing user friction across onboarding.  
-🔗 [View Dashboard](assets/funnel-dropoff.html)
+ [View Dashboard](assets/funnel-dropoff.html)
 </div>
 
 <!-- Feature Adoption -->
@@ -32,7 +32,7 @@ Visualizing and reducing user friction across onboarding.
 <a href="assets/feature-adoption.html"><img src="assets/feature-thumb.png" alt="Feature Adoption" style="width:100%;"/></a>
 **Feature Adoption Dashboard**  
 Measuring behavior-focused rollout success.  
-🔗 [View Dashboard](assets/feature-adoption.html)
+ [View Dashboard](assets/feature-adoption.html)
 </div>
 
 <!-- Streaming Campaign -->
@@ -40,7 +40,7 @@ Measuring behavior-focused rollout success.
 <a href="assets/streaming-campaign.html"><img src="assets/streaming-thumb.png" alt="Streaming Campaign" style="width:100%;"/></a>
 **Streaming Ad Campaign**  
 Analyzing performance of ad creatives and platforms.  
-🔗 [View Dashboard](assets/streaming-campaign.html)
+ [View Dashboard](assets/streaming-campaign.html)
 </div>
 
 <!-- E-commerce Campaign -->
@@ -48,9 +48,9 @@ Analyzing performance of ad creatives and platforms.
 <a href="assets/ecommerce-campaign.html"><img src="assets/ecommerce-thumb.png" alt="Ecommerce Campaign" style="width:100%;"/></a>
 **E-commerce Promo Campaign**  
 Evaluating ROI and conversions across marketing channels.  
-🔗 [View Dashboard](assets/ecommerce-campaign.html)
+ [View Dashboard](assets/ecommerce-campaign.html)
 </div>
 
 </div>
 
-📄 [Download Resume](resume.pdf)
+ [Download Resume](resume.pdf)
