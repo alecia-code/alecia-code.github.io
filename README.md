@@ -1,4 +1,4 @@
-# Jenna Hayes – Data & Product Analyst Portfolio
+# Jenna Hayes – Data & Product Analyst
 
 # Hi, I'm Jenna Hayes
 
@@ -10,6 +10,11 @@ Feel free to explore the dashboards, download the summaries, and check out the c
 
 Portfolio: https://alecia-code.github.io  
 Resume: [View Here](docs/resume.md)
+
+## Contact
+
+Email: jenna.hayes0110@gmail.com  
+LinkedIn: https://linkedin.com/in/jennahayes92
 
 ## Featured Projects
 
@@ -28,9 +33,5 @@ Resume: [View Here](docs/resume.md)
 - Tableau, Jupyter Notebooks  
 - Git, GitHub Pages, Markdown
 
-## Contact
 
-Email: jenna.hayes0110@gmail.com  
-LinkedIn: https://linkedin.com/in/jennahayes92
 
-This site is built using Plotly Dash, Markdown, and GitHub Pages. All projects are self-contained and ready for portfolio review.
