@@ -5,7 +5,11 @@ title: Welcome
 
 # Hi, I'm Jenna Hayes
 
-Welcome to my portfolio! I specialize in combining data storytelling, user behavior analysis, and performance insights to drive product and marketing impact.
+I'm a data and product analyst who loves translating complex user behavior into clear, actionable insights. With a foundation in behavioral science and hands-on experience in A/B testing, funnel analysis, and campaign optimization, I help teams make data-informed decisions that drive impact.
+
+This portfolio showcases projects that reflect my approach: user-first, experiment-driven, and insight-led. From optimizing CTA placement and tracking feature adoption to uncovering drop-off patterns and improving campaign ROI — each case study combines technical depth with business relevance.
+
+Feel free to explore the dashboards, download the summaries, and check out the code behind the insights.
 
 ## Featured Projects
 
