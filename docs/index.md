@@ -1,7 +1,4 @@
----
-layout: default
-title: Welcome
----
+
 
 # Hi, I'm Jenna Hayes
 
