@@ -18,7 +18,8 @@ Feel free to explore the dashboards, download the summaries, and dive into the c
 <!-- CTA Test -->
 <div style="border: 1px solid #ddd; padding: 16px; background: #fff;">
 <a href="assets/cta-ab-test.html"><img src="assets/cta-thumb.png" alt="CTA Test" style="width:100%;"/></a>
-**CTA Placement A/B Test**  
+
+  **CTA Placement A/B Test**  
 Optimizing CTA position to improve CTR across devices.  
 [View Dashboard](assets/cta-ab-test.html)
 </div>
@@ -26,7 +27,8 @@ Optimizing CTA position to improve CTR across devices.
 <!-- Funnel Drop-Off -->
 <div style="border: 1px solid #ddd; padding: 16px; background: #fff;">
 <a href="assets/funnel-dropoff.html"><img src="assets/funnel-thumb.png" alt="Funnel Drop-Off" style="width:100%;"/></a>
-**Funnel Drop-Off Analysis**  
+
+  **Funnel Drop-Off Analysis**  
 Visualizing and reducing user friction across onboarding.  
 [View Dashboard](assets/funnel-dropoff.html)
 </div>
@@ -34,7 +36,8 @@ Visualizing and reducing user friction across onboarding.
 <!-- Feature Adoption -->
 <div style="border: 1px solid #ddd; padding: 16px; background: #fff;">
 <a href="assets/feature-adoption.html"><img src="assets/feature-thumb.png" alt="Feature Adoption" style="width:100%;"/></a>
-**Feature Adoption Dashboard**  
+
+  **Feature Adoption Dashboard**  
 Measuring behavior-focused rollout success.  
 [View Dashboard](assets/feature-adoption.html)
 </div>
@@ -42,7 +45,8 @@ Measuring behavior-focused rollout success.
 <!-- Streaming Campaign -->
 <div style="border: 1px solid #ddd; padding: 16px; background: #fff;">
 <a href="assets/streaming-campaign.html"><img src="assets/streaming-thumb.png" alt="Streaming Campaign" style="width:100%;"/></a>
-**Streaming Ad Campaign**  
+
+  **Streaming Ad Campaign**  
 Analyzing performance of ad creatives and platforms.  
 [View Dashboard](assets/streaming-campaign.html)
 </div>
@@ -50,7 +54,8 @@ Analyzing performance of ad creatives and platforms.
 <!-- E-commerce Campaign -->
 <div style="border: 1px solid #ddd; padding: 16px; background: #fff;">
 <a href="assets/ecommerce-campaign.html"><img src="assets/ecommerce-thumb.png" alt="Ecommerce Campaign" style="width:100%;"/></a>
-**E-commerce Promo Campaign**  
+
+  **E-commerce Promo Campaign**  
 Evaluating ROI and conversions across marketing channels.  
 [View Dashboard](assets/ecommerce-campaign.html)
 </div>
